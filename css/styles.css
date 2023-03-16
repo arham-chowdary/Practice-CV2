@@ -2,15 +2,20 @@ body {
   background-color: #FAF7F0;
 }
 h1{
-   color: #000000
+   color: #000000;
 }
 h3{
-   color: #2E4C6D
+   color: #2E4C6D;
 }
 hr {
-  border-style: none;
+  border-style: inherit;
   border-top-style: dotted;
   border-color: grey;
   border-width: 5px;
   width: 10%;
+}
+.center {
+ margin: auto;
+ width: 40%;
+ padding: 20px;
 }
